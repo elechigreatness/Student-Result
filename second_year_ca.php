@@ -1828,4 +1828,11 @@ $CHE218_results = [
         "Exams" => 37
     ],
 ];
+// print_r($CHE202_results);
+foreach($CHE202_results as $loop){
+    // echo $loop['Exams'] . '</br>';
+}
+?>
+
+
 
