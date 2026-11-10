@@ -355,3 +355,372 @@ $CHE202_results = [
         "Exams" => 40
     ],  
 ];
+$CHE208_results = [
+    [
+        "student_name" => "OGBIN BRIDGET EDIM",
+        "matrix_no" => "CHT/OB/24/CH/001",
+        "Ca" => 20,
+        "Exams" => 40
+    ],
+    [
+        "student_name" => "ADOGA RUTH JAMES",
+        "matrix_no" => "CHT/OB/24/CH/002",
+        "Ca" => 21,
+        "Exams" => 44
+    ],
+    [
+        "student_name" => "OKPA JACINTA BRIAN",
+        "matrix_no" => "CHT/OB/24/CH/003",
+        "Ca" => 21,
+        "Exams" => 44
+    ],
+    [
+        "student_name" => "OKENOM FAITH OFFTE",
+        "matrix_no" => "CHT/OB/24/CH/004",
+        "Ca" => 22,
+        "Exams" => 30
+    ],
+    [
+        "student_name" => "ODEN ANABEL EMMANUEL",
+        "matrix_no" => "CHT/OB/24/CH/005",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "OKPECHI KWAM IGWUT",
+        "matrix_no" => "CHT/OB/24/CH/006",
+        "Ca" => 21,
+        "Exams" => 46
+    ],
+    [
+        "student_name" => "SUNDAY OTEMDIRY OKON",
+        "matrix_no" => "CHT/OB/24/CH/007",
+        "Ca" => 20,
+        "Exams" => 42
+    ],
+    [
+        "student_name" => "EGBE REASON ESOP",
+        "matrix_no" => "CHT/OB/24/CH/008",
+        "Ca" => 25,
+        "Exams" => 38
+    ],
+    [
+        "student_name" => "JAMES JOY OTEMNEB",
+        "matrix_no" => "CHT/OB/24/CH/009",
+        "Ca" => 22,
+        "Exams" => 52
+    ],
+    [
+        "student_name" => "EKWAKIL EDITH EKORO",
+        "matrix_no" => "CHT/OB/24/CH/010",
+        "Ca" => 22,
+        "Exams" => 43
+    ],
+    [
+        "student_name" => "OKORN EMMANUEL PATRICK",
+        "matrix_no" => "CHT/OB/24/CH/011",
+        "Ca" => 19,
+        "Exams" => 44
+    ],
+    [
+        "student_name" => "ENANG HOPE OKEY",
+        "matrix_no" => "CHT/OB/24/CH/012",
+        "Ca" => 22,
+        "Exams" => 43
+    ],
+    [
+        "student_name" => "ONYAM EMILIA OBEM",
+        "matrix_no" => "CHT/OB/24/CH/013",
+        "Ca" => 23,
+        "Exams" => 41
+    ],
+    [
+        "student_name" => "ELE AGNES STEPHEN",
+        "matrix_no" => "CHT/OB/24/CH/014",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "FRIDAY SUCCESS JOSEPH",
+        "matrix_no" => "CHT/OB/24/CH/015",
+        "Ca" => 21,
+        "Exams" => 50
+    ],
+    [
+        "student_name" => "IREK MERCY JAMES",
+        "matrix_no" => "CHT/OB/24/CH/016",
+        "Ca" => 22,
+        "Exams" => 40
+    ],
+    [
+        "student_name" => "EKPO MARY-WOFAI UBANGHA",
+        "matrix_no" => "CHT/OB/24/CH/017",
+        "Ca" => 22,
+        "Exams" => 47
+    ],
+    [
+        "student_name" => "AKPAMA NAOMI UKET",
+        "matrix_no" => "CHT/OB/24/CH/018",
+        "Ca" => 23,
+        "Exams" => 48
+    ],
+    [
+        "student_name" => "ENANG MARTIN ETONG",
+        "matrix_no" => "CHT/OB/24/CH/019",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "OSAM EUNICE OBIA",
+        "matrix_no" => "CHT/OB/24/CH/020",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "EBONY OWOR EBAK",
+        "matrix_no" => "CHT/OB/24/CH/021",
+        "Ca" => 23,
+        "Exams" => 44
+    ],
+    [
+        "student_name" => "JOHN JOSEPHINE SUNDAY",
+        "matrix_no" => "CHT/OB/24/CH/022",
+        "Ca" => 25,
+        "Exams" => 48
+    ],
+    [
+        "student_name" => "JAMES SUSAN AKPEN",
+        "matrix_no" => "CHT/OB/24/CH/023",
+        "Ca" => 24,
+        "Exams" => 40
+    ],
+    [
+        "student_name" => "EFON SUCCESS EGBE",
+        "matrix_no" => "CHT/OB/24/CH/024",
+        "Ca" => 21,
+        "Exams" => 35
+    ],
+    [
+        "student_name" => "JOHN JOHNSON OBO",
+        "matrix_no" => "CHT/OB/24/CH/025",
+        "Ca" => 20,
+        "Exams" => 53
+    ],
+    [
+        "student_name" => "JOHN ESTHER OBO",
+        "matrix_no" => "CHT/OB/24/CH/026",
+        "Ca" => 21,
+        "Exams" => 41
+    ],
+    [
+        "student_name" => "OCHEDAN EDAH GLORY",
+        "matrix_no" => "CHT/OB/24/CH/027",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "OSOK AKASA OBO",
+        "matrix_no" => "CHT/OB/24/CH/028",
+        "Ca" => 25,
+        "Exams" => 39
+    ],
+    [
+        "student_name" => "OVAT DEBORAH BENJAMIN",
+        "matrix_no" => "CHT/OB/24/CH/029",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "EDIM EUNICE PHILIP",
+        "matrix_no" => "CHT/OB/24/CH/030",
+        "Ca" => 21,
+        "Exams" => 45
+    ],
+    [
+        "student_name" => "ANWAN ALBETTER PIUS",
+        "matrix_no" => "CHT/OB/24/CH/031",
+        "Ca" => 21,
+        "Exams" => 47
+    ],
+    [
+        "student_name" => "AYAH HEART PATRICK",
+        "matrix_no" => "CHT/OB/24/CH/032",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "ICHAGHA FELICIA AKPAN",
+        "matrix_no" => "CHT/OB/24/CH/033",
+        "Ca" => 20,
+        "Exams" => 42
+    ],
+    [
+        "student_name" => "UDUAMA CYNTHIA IREK",
+        "matrix_no" => "CHT/OB/24/CH/034",
+        "Ca" => 25,
+        "Exams" => 41
+    ],
+    [
+        "student_name" => "JAMES CYNTHIA ONUN",
+        "matrix_no" => "CHT/OB/24/CH/035",
+        "Ca" => 23,
+        "Exams" => 54
+    ],
+    [
+        "student_name" => "OKEY OFFIAM AGBOR",
+        "matrix_no" => "CHT/OB/24/CH/036",
+        "Ca" => 20,
+        "Exams" => 41
+    ],
+    [
+        "student_name" => "OKPA PRECIOUS MICHAEL",
+        "matrix_no" => "CHT/OB/24/CH/037",
+        "Ca" => 30,
+        "Exams" => 24
+    ],
+    [
+        "student_name" => "OBONGHA FORTUNE OBONGHA",
+        "matrix_no" => "CHT/OB/24/CH/038",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "AGAN JOHN JOSEPH",
+        "matrix_no" => "CHT/OB/24/CH/039",
+        "Ca" => 20,
+        "Exams" => 40
+    ],
+    [
+        "student_name" => "ENYAH VICTOR DAVID",
+        "matrix_no" => "CHT/OB/24/CH/040",
+        "Ca" => 20,
+        "Exams" => 46
+    ],
+    [
+        "student_name" => "UBUGHA AROWOSONG SAMUEL",
+        "matrix_no" => "CHT/OB/24/CH/041",
+        "Ca" => 24,
+        "Exams" => 51
+    ],
+    [
+        "student_name" => "ABENG BLESSING ESO",
+        "matrix_no" => "CHT/OB/24/CH/042",
+        "Ca" => 22,
+        "Exams" => 34
+    ],
+    [
+        "student_name" => "IKORA EBAKA OYAMA",
+        "matrix_no" => "CHT/OB/24/CH/043",
+        "Ca" => 20,
+        "Exams" => 48
+    ],
+    [
+        "student_name" => "AYAMA GIFT ADOMA",
+        "matrix_no" => "CHT/OB/24/CH/044",
+        "Ca" => 20,
+        "Exams" => 48
+    ],
+    [
+        "student_name" => "ENIMI GOODNESS FRIDAY",
+        "matrix_no" => "CHT/OB/24/CH/045",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "ABENG MERCY LIVINUS",
+        "matrix_no" => "CHT/OB/24/CH/046",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "ADAM PRECIOUS ENYAM",
+        "matrix_no" => "CHT/OB/24/CH/047",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "AGBOR BETHEL PRINCE",
+        "matrix_no" => "CHT/OB/24/CH/048",
+        "Ca" => 21,
+        "Exams" => 53
+    ],
+
+    [
+        "student_name" => "OVAT SOONITA FRANCIS",
+        "matrix_no" => "CHT/OB/24/CH/049",
+        "Ca" => 25,
+        "Exams" => 43
+    ],
+    [
+        "student_name" => "IGUT EMMANUEL SUNDAY",
+        "matrix_no" => "CHT/OB/24/CH/050",
+        "Ca" => 20,
+        "Exams" => 38
+    ],
+    [
+        "student_name" => "EZE UCHECHI PETER",
+        "matrix_no" => "CHT/OB/24/CH/051",
+        "Ca" => 20,
+        "Exams" => 46
+    ],
+    [
+        "student_name" => "AGADA KANAMA SUNDAY",
+        "matrix_no" => "CHT/OB/24/CH/052",
+        "Ca" => 23,
+        "Exams" => 34
+    ],
+    [
+        "student_name" => "UBUGHA ESTHER SAMUEL",
+        "matrix_no" => "CHT/OB/24/CH/053",
+        "Ca" => 0,
+        "Exams" => 0
+    ],
+    [
+        "student_name" => "OTI GOODNESS AYO",
+        "matrix_no" => "CHT/OB/24/CH/054",
+        "Ca" => 23,
+        "Exams" => 50
+    ],
+    [
+        "student_name" => "EWONO MESAMA ALFRED",
+        "matrix_no" => "CHT/OB/24/CH/055",
+        "Ca" => 21,
+        "Exams" => 42
+    ],
+    [
+        "student_name" => "EGOR ASAMBE SUNDAY",
+        "matrix_no" => "CHT/OB/24/CH/056",
+        "Ca" => 24,
+        "Exams" => 55
+    ],
+    [
+        "student_name" => "OKIMBA MARY ADAMS",
+        "matrix_no" => "CHT/OB/24/CH/057",
+        "Ca" => 25,
+        "Exams" => 45
+    ],
+    [
+        "student_name" => "ORIM PATIENCE MATTHEW",
+        "matrix_no" => "CHT/OB/24/CH/058",
+        "Ca" => 17,
+        "Exams" => 53
+    ],
+    [
+        "student_name" => "EDU EMMANUEL ENI",
+        "matrix_no" => "CHT/OB/24/CH/059",
+        "Ca" => 24,
+        "Exams" => 43
+    ],
+    [
+        "student_name" => "AJAKE JESSICA PETER",
+        "matrix_no" => "CHT/OB/24/CH/060",
+        "Ca" => 21,
+        "Exams" => 49
+    ],
+    [
+        "student_name" => "AGARA MONICA",
+        "matrix_no" => "CHT/OB/24/CH/061",
+        "Ca" => 20,
+        "Exams" => 42
+    ],
+];
