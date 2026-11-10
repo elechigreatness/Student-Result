@@ -1833,6 +1833,65 @@ foreach($CHE202_results as $loop){
     // echo $loop['Exams'] . '</br>';
 }
 ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/materialize.css">
+</head>
+<body>
+    <div class="container">
+        
+        <!-- TABLES -->
+        <h2 class= "blue-text">CHE202</h2>
+        <table class= "highlight striped">
+            <thead>
+                <tr>
+                    <th class= "blue-text">Name</th>
+                    <th class= "blue-text">Matric No</th>
+                <th class= "blue-text">CA</th>
+                <th class= "blue-text">Exams</th>
+                <th class= "blue-text">Total</th>
+                <th class= "blue-text">Grade</th>
+            </tr>
+        </thead>
+        <tbody>
+            <?php foreach($CHE202_results as $loop){ 
+                $total = $loop['Ca'] + $loop['Exams'];
+                $color = "";
+                $grade = "";
+                if ($total>=70) {
+                        $grade = "A";
+                        $color="green-text text-darken-4";
+                    } elseif ($total>=65) {
+                        $grade = "B";
+                    } elseif ($total>=60) {
+                        $grade = "C";
+                    } elseif ($total>=55) {
+                        $grade = "D";
+                    } elseif ($total>=50) {
+                        $grade = "E";
+                    } elseif ($total>=0) {
+                        $grade = "F";
+                        $color="red-text text-darken-4";
+                    }
+            ?>
+            <tr>
+                <td><?php echo $loop['student_name']?></td>
+                <td><?php echo $loop['matrix_no']?></td>
+                <td><?php echo $loop['Ca']?></td>
+                <td><?php echo $loop['Exams']?></td>
+                <td><?php echo $total; ?></td> 
+                <td class="<?php echo $color; ?>"><strong><?php echo $grade; ?></strong></td>
+            </tr>
+            <?php } ?>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
 
 
 
